@@ -1,8 +1,8 @@
 # Cryptography
 ```bash
-1.reverse_cipher.py :-> This file is to test the encryption and decryption in console.
-2.encryt_file.py :-> This file is to encrypt complete file.
-decrypt_file.py :-> This file is to decrypt pre-encrypted file.
+**1.reverse_cipher.py** :-> This file is to test the encryption and decryption in console.
+**2.encryt_file.py **:-> This file is to encrypt complete file.
+**decrypt_file.py** :-> This file is to decrypt pre-encrypted file.
 ```
 ### Creativity
 In this algorithm of encryption I only used shift cipher and reverse_cipher.
