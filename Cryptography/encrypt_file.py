@@ -1,4 +1,4 @@
-file_name=input('enter the filename to encrypt:-> ')									#file to be encrypted
+file_name=input('enter the name of the file to encrypt:-> ')									#file to be encrypted
 file_name2=input('enter the name of temporary file:-> ')								#file that will be created after encryption
 file=open(file_name,'r')
 file_content2=open(file_name2,'w')
